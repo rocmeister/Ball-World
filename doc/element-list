@@ -1,0 +1,17 @@
+module:HW05
+controller
+model
+model.paint
+model.paint.shape
+model.paint.strategy
+model.strategy
+provided
+provided.util
+provided.util.dispatcher
+provided.util.dispatcher.impl
+provided.util.loader
+provided.util.loader.impl
+provided.util.valueGenerator
+provided.util.valueGenerator.impl
+util
+view
